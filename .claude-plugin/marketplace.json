@@ -1,0 +1,26 @@
+{
+  "name": "jd-for-andrew",
+  "owner": {
+    "name": "JD Fiscus",
+    "email": "me@iamfiscus.com"
+  },
+  "metadata": {
+    "description": "A custom Claude Code plugin marketplace built specifically for Andrew Wilkinson. Includes design critiques, acquisition memo generation, and a few surprises.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jd-for-andrew",
+      "source": "./",
+      "description": "A custom Claude Code plugin built specifically for Andrew Wilkinson. Includes design critiques, acquisition memo generation, and a few surprises.",
+      "version": "1.0.0",
+      "author": {
+        "name": "JD Fiscus"
+      },
+      "homepage": "https://github.com/jdfiscus/jd-for-andrew",
+      "repository": "https://github.com/jdfiscus/jd-for-andrew",
+      "keywords": ["design", "acquisition", "memo", "vibe-coder", "metalab", "tiny"],
+      "category": "productivity"
+    }
+  ]
+}

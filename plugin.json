@@ -1,0 +1,17 @@
+{
+  "name": "jd-for-andrew",
+  "version": "1.0.0",
+  "description": "A custom Claude Code plugin built specifically for Andrew Wilkinson. Includes design critiques, acquisition memo generation, and a few surprises.",
+  "author": "JD Fiscus",
+  "homepage": "https://github.com/jdfiscus/jd-for-andrew",
+  "skills": [
+    "skills/design-roast",
+    "skills/tiny-memo",
+    "skills/about-jd",
+    "skills/aeropress",
+    "skills/andrew-would-hate-this"
+  ],
+  "agents": [
+    "agents/vibe-coder.md"
+  ]
+}
