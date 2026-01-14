@@ -32,7 +32,7 @@ Add this marketplace and install the plugin:
 
 ```bash
 # Add the marketplace
-/plugin marketplace add jdfiscus/jd-for-andrew
+/plugin marketplace add iamfiscus/jd-for-andrew
 
 # Install the plugin
 /plugin install jd-for-andrew@jd-for-andrew
@@ -41,14 +41,14 @@ Add this marketplace and install the plugin:
 Or add via GitHub URL:
 
 ```bash
-/plugin marketplace add https://github.com/jdfiscus/jd-for-andrew.git
+/plugin marketplace add https://github.com/iamfiscus/jd-for-andrew.git
 ```
 
 ### As a Local Plugin
 
 ```bash
 # Clone this repo
-git clone https://github.com/jdfiscus/jd-for-andrew.git
+git clone https://github.com/iamfiscus/jd-for-andrew.git
 
 # Install in Claude Code
 claude plugins add ./jd-for-andrew
